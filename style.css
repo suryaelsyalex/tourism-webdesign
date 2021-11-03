@@ -1,0 +1,109 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.myMargin{
+    margin-left:70px;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+.myButton
+{
+    padding-left: 900px;
+    
+}
+.myColour{
+color:beige
+}
+.myBackground{
+    margin:cover;
+    padding:0px;
+}
+.district-name{
+    color:beige
+}
+.myParagraph{
+    text-align: center;
+    color: chartreuse;
+}
+.myTrip{
+    text-align: center;
+    color:beige;
+    
+}
+.myMargintrip{
+    margin-left: 250px;
+}
+.a:hover{
+    color:yellowgreen;
+}
+.long-text {
+    text-align: justify;
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 6%;
+    font-size: 20px;
+}
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.section {
+    padding: 80px 0;
+}
+h2 {
+    padding-left: 200PX;
+    font-size: 250%;
+    word-spacing: 2px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+.long-text {
+    font-size: 140%;
+    text-align:justify;
+}
+h2:after {
+    
+    display: block;
+    height: 2px;
+    background-color: #e67e22;
+    content: " ";
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-container{
+    /* border: 1px solid black; */
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+}
+
+.box-style{ 
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+
+}
+
+
+.maps iframe{
+position: relative;
+float: right;
+margin-top: 2%;
+margin-right: 5%;
+margin-left: -30%;
+border: 2px solid black;
+border-radius: 10px;
+box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 18px 38px -6px rgba(0,0,0,0.75);
+
+ /* transform: translate(110%,-110%); */
+}
